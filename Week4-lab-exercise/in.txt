@@ -1,0 +1,9 @@
+void main()
+{
+  int a;
+  a<=5.3 != -2.1 //comment
+  b=.6
+  -5e+9 /* Multi
+  line comment */
+  _end
+}
